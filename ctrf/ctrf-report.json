@@ -1,0 +1,96 @@
+{
+  "results": {
+    "tool": {
+      "name": "jest"
+    },
+    "summary": {
+      "tests": 7,
+      "passed": 7,
+      "failed": 0,
+      "pending": 0,
+      "skipped": 0,
+      "other": 0,
+      "start": 1743507779059,
+      "stop": 1743507796997
+    },
+    "tests": [
+      {
+        "name": "HolidayList displays a list of holidays",
+        "duration": 742,
+        "status": "passed",
+        "rawStatus": "passed",
+        "type": "unit",
+        "filePath": "C:\\Users\\srinu\\Downloads\\public_holidays\\src\\__test__\\HolidayList.test.tsx",
+        "retries": 0,
+        "flaky": false,
+        "suite": "C:\\Users\\srinu\\Downloads\\public_holidays\\src\\__test__\\HolidayList.test.tsx > HolidayList"
+      },
+      {
+        "name": "App basic functionalies renders the app and components",
+        "duration": 285,
+        "status": "passed",
+        "rawStatus": "passed",
+        "type": "unit",
+        "filePath": "C:\\Users\\srinu\\Downloads\\public_holidays\\src\\__test__\\App.test.tsx",
+        "retries": 0,
+        "flaky": false,
+        "suite": "C:\\Users\\srinu\\Downloads\\public_holidays\\src\\__test__\\App.test.tsx > App basic functionalies"
+      },
+      {
+        "name": "App basic functionalies handles errors when fetching holidays",
+        "duration": 477,
+        "status": "passed",
+        "rawStatus": "passed",
+        "type": "unit",
+        "filePath": "C:\\Users\\srinu\\Downloads\\public_holidays\\src\\__test__\\App.test.tsx",
+        "retries": 0,
+        "flaky": false,
+        "suite": "C:\\Users\\srinu\\Downloads\\public_holidays\\src\\__test__\\App.test.tsx > App basic functionalies"
+      },
+      {
+        "name": "App basic functionalies fetches and displays holidays successfully",
+        "duration": 1846,
+        "status": "passed",
+        "rawStatus": "passed",
+        "type": "unit",
+        "filePath": "C:\\Users\\srinu\\Downloads\\public_holidays\\src\\__test__\\App.test.tsx",
+        "retries": 0,
+        "flaky": false,
+        "suite": "C:\\Users\\srinu\\Downloads\\public_holidays\\src\\__test__\\App.test.tsx > App basic functionalies"
+      },
+      {
+        "name": "HolidayForm renders the form and button",
+        "duration": 310,
+        "status": "passed",
+        "rawStatus": "passed",
+        "type": "unit",
+        "filePath": "C:\\Users\\srinu\\Downloads\\public_holidays\\src\\__test__\\HolidayForm.test.tsx",
+        "retries": 0,
+        "flaky": false,
+        "suite": "C:\\Users\\srinu\\Downloads\\public_holidays\\src\\__test__\\HolidayForm.test.tsx > HolidayForm"
+      },
+      {
+        "name": "HolidayForm fetches countries and displays them in the dropdown",
+        "duration": 114,
+        "status": "passed",
+        "rawStatus": "passed",
+        "type": "unit",
+        "filePath": "C:\\Users\\srinu\\Downloads\\public_holidays\\src\\__test__\\HolidayForm.test.tsx",
+        "retries": 0,
+        "flaky": false,
+        "suite": "C:\\Users\\srinu\\Downloads\\public_holidays\\src\\__test__\\HolidayForm.test.tsx > HolidayForm"
+      },
+      {
+        "name": "HolidayForm calls onSearch with the selected country on form submit",
+        "duration": 4144,
+        "status": "passed",
+        "rawStatus": "passed",
+        "type": "unit",
+        "filePath": "C:\\Users\\srinu\\Downloads\\public_holidays\\src\\__test__\\HolidayForm.test.tsx",
+        "retries": 0,
+        "flaky": false,
+        "suite": "C:\\Users\\srinu\\Downloads\\public_holidays\\src\\__test__\\HolidayForm.test.tsx > HolidayForm"
+      }
+    ]
+  }
+}
